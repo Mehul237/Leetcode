@@ -21,6 +21,5 @@
 | 15 |  958 |  Check Completeness of a Binary Tree | Medium    | [Solution](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/915417204/) |
 | 16 |  106 |  Construct Binary Tree from Inorder and Postorder Traversal  | Medium    | [Solution](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/916328666/) |
 | 17 | 208  | Implement Trie (Prefix Tree)  |    Medium    | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/916649988/) |
-| 18 |   |   |              | [Solution]( ) |
-
-
+| 18 | 1472  | Design Brower History  |          Medium    | [Solution](https://leetcode.com/problems/design-browser-history/submissions/917215041/) |
+| 19 |   |   |              | [Solution]( ) |
