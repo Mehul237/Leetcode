@@ -22,4 +22,5 @@
 | 16 |  106 |  Construct Binary Tree from Inorder and Postorder Traversal  | Medium    | [Solution](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/916328666/) |
 | 17 | 208  | Implement Trie (Prefix Tree)  |    Medium    | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/916649988/) |
 | 18 | 1472  | Design Brower History  |          Medium    | [Solution](https://leetcode.com/problems/design-browser-history/submissions/917215041/) |
-| 19 |   |   |              | [Solution]( ) |
+| 19 | 211 | Design Add and Search Words Data Structure | Medium | [Solution](https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/918253443/) |
+| 20 |     |   |              | [Solution]( ) |
