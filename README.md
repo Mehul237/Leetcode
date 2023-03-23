@@ -23,4 +23,8 @@
 | 17 | 208  | Implement Trie (Prefix Tree)  |    Medium    | [Solution](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/916649988/) |
 | 18 | 1472  | Design Brower History  |          Medium    | [Solution](https://leetcode.com/problems/design-browser-history/submissions/917215041/) |
 | 19 | 211 | Design Add and Search Words Data Structure | Medium | [Solution](https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/918253443/) |
-| 20 |     |   |              | [Solution]( ) |
+| 20 | 605 | Can Place Flowers|  Easy | [Solution](https://leetcode.com/problems/can-place-flowers/submissions/919655364/) |
+| 21 | 2348 | Number of Zero-Filled Subarrays | Medium | [Solution](https://leetcode.com/problems/number-of-zero-filled-subarrays/submissions/919656255/) |
+| 22 | 2492 | Minimum Score of a Path Between Two Cities | Medium | [Solution](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/submissions/920209529/) |
+| 23 | 1319 | Number of Operations to Make Network Connected | Medium | [Solution](https://leetcode.com/problems/number-of-operations-to-make-network-connected/submissions/920839289/) |
+| 24 |     |   |              | [Solution]( ) |
