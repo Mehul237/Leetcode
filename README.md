@@ -27,4 +27,12 @@
 | 21 | 2348 | Number of Zero-Filled Subarrays | Medium | [Solution](https://leetcode.com/problems/number-of-zero-filled-subarrays/submissions/919656255/) |
 | 22 | 2492 | Minimum Score of a Path Between Two Cities | Medium | [Solution](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/submissions/920209529/) |
 | 23 | 1319 | Number of Operations to Make Network Connected | Medium | [Solution](https://leetcode.com/problems/number-of-operations-to-make-network-connected/submissions/920839289/) |
-| 24 |     |   |              | [Solution]( ) |
+| 24 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | [Solution](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/submissions/921066067/) |
+| 25 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | Medium | [Solution]( ) |
+| 26 | 2360 | Longest Cycle in a Graph | Medium | [Solution](https://leetcode.com/problems/longest-cycle-in-a-graph/submissions/922275107/) |
+| 27 |  64 | Minimum Path Sum | Medium | [Solution](https://leetcode.com/problems/minimum-path-sum/submissions/922765620/) |
+| 28 | 983 | Minimum Cost For Tickets | Medium | [Solution](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/923447987/) |
+| 29 | 1402 | Reducing Dishes | Hard | [Solution](https://leetcode.com/problems/reducing-dishes/submissions/923959685/) |
+| 30 | 87 | Scramble String | Hard | [Solution](https://leetcode.com/problems/scramble-string/submissions/924712679/) |
+| 31 | 1444 | Number of Ways of Cutting a Pizza | Hard | [Solution](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/submissions/925243131/) |
+| 31 |     |   |              | [Solution]( ) |
