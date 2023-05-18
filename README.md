@@ -72,6 +72,7 @@
 | 27 | 319 | Bulb Switcher | Medium | [Solution](https://leetcode.com/problems/bulb-switcher/submissions/940594665/) 
 | 28 | 839 | Similar String Groups  | Hard | [Solution](https://leetcode.com/problems/similar-string-groups/submissions/940939149/) 
 | 29 | 1697 | Checking Existence of Edge Length Limited Paths | Hard | [Solution](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/submissions/941517795/) 
+| 30 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | Hard | [Solution](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/submissions/942250365/) 
 | 30 |     |   |              | [Solution]( ) 
 
 
